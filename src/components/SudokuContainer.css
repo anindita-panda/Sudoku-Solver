@@ -1,0 +1,8 @@
+.col {
+	height: 70px;
+	width: 70px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: tomato;
+}
